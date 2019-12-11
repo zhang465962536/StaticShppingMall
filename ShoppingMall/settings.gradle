@@ -1,0 +1,3 @@
+include ':app', ':addsubview'
+rootProject.name='ShoppingMall'
+include ':ScrollViewContainer'

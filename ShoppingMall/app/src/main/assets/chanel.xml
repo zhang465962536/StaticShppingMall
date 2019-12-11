@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shoppingmall>
+    <chanel chanelid="1">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_cyc</image>
+        <text>服饰</text>
+    </chanel>
+    <chanel chanelid="2">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_game</image>
+        <text>游戏</text>
+    </chanel>
+    <chanel chanelid="3">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_carttoon</image>
+        <text>动漫</text>
+    </chanel>
+    <chanel chanelid="4">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_cosplay</image>
+        <text>装扮</text>
+    </chanel>
+    <chanel chanelid="5">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_oldage</image>
+        <text>古风</text>
+    </chanel>
+    <chanel chanelid="6">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_collect</image>
+        <text>漫展票务</text>
+    </chanel>
+    <chanel chanelid="7">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_stationery</image>
+        <text>文具</text>
+    </chanel>
+    <chanel chanelid="8">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_snack</image>
+        <text>零食</text>
+    </chanel>
+    <chanel chanelid="9">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_jewelry</image>
+        <text>首饰</text>
+    </chanel>
+    <chanel chanelid="10">
+        <image>android.resource://com.example.shoppingmall/drawable/menu_more</image>
+        <text>更多</text>
+    </chanel>
+</shoppingmall>
